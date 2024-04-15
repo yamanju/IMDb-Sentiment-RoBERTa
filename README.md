@@ -1,4 +1,4 @@
-Project Name: Development of a Sentiment Analysis Tool Using Transformer Models
+<b>Project Name:<b/> Development of a Sentiment Analysis Tool Using Transformer Models
 
 ### Introduction
 
