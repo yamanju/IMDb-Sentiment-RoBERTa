@@ -35,16 +35,10 @@ RoBERTa comprises an encoder stack of L layers, each containing A self-attention
 ### Results:
 - Positive       
 
-precision: 0.93
-recall: 0.91
-f1-score: 0.92
-accuracy: 0.92
+precision: 0.93, recall: 0.91, f1-score: 0.92, accuracy: 0.92
 
 - Negative
 
-precision: 0.91  
-recall: 0.93
-f1-score: 0.92
-accuracy: 0.92
+precision: 0.91 , recall: 0.93, f1-score: 0.92, accuracy: 0.92
 
 
