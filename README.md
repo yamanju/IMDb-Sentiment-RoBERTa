@@ -33,10 +33,18 @@ In this research, the Roberta model developed by Liu et al. at Facebook AI was e
 RoBERTa comprises an encoder stack of L layers, each containing A self-attention heads and a hidden dimension of H. This architectural refinement contributes to the model's superior performance in natural language understanding tasks, setting new standards in the field of deep learning-based language modeling and sentiment analysis.
 
 ### Results:
+- Positive       
 
-          precision    recall  f1-score   support
+precision: 0.93      
+recall: 0.91
+f1-score: 0.92
+accuracy: 0.92
 
-Positive       0.93      0.91      0.92      2495
-Negative       0.91      0.93      0.92      2505
+- Negative
+  
+precision: 0.91  
+recall: 0.93
+f1-score: 0.92
+accuracy: 0.92
 
 
