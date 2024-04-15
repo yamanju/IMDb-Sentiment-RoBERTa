@@ -24,3 +24,8 @@ number of epochs) to find an optimal configuration. Evaluation and Analysis
 ● Evaluate the model's performance on the test dataset using appropriate metrics (accuracy, precision, recall, F1 score).
 
 ● Analyze the model's predictions to identify patterns in errors or misclassifications.
+
+Model
+
+
+In this research, the Roberta model developed by Liu et al. at Facebook AI was employed. Building upon the groundbreaking BERT model introduced by Devlin et al., Roberta enhances and surpasses previous benchmarks by eliminating the Next Sentence Prediction (NSP) objective. Instead, it adopts a training approach with significantly larger mini-batch sizes and learning rates. Utilizing the ubiquitous transformer architecture proposed by Vaswani et al., Roberta comprises an encoder stack of L layers, each containing A self-attention heads and a hidden dimension of H. This architectural refinement contributes to the model's superior performance in natural language understanding tasks, setting new standards in the field of deep learning-based language modeling and sentiment analysis.
